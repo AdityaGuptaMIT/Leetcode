@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0724-find-pivot-index) |
 | [2270-number-of-ways-to-split-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0724-find-pivot-index) |
 | [2270-number-of-ways-to-split-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
