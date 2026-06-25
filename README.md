@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
