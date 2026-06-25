@@ -1,38 +1,3 @@
 # Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0001-two-sum) |
-| [0066-plus-one](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0066-plus-one) |
-| [0724-find-pivot-index](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0724-find-pivot-index) |
-| [1991-find-the-middle-index-in-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
-| [2270-number-of-ways-to-split-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
-| [2574-left-and-right-sum-differences](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2574-left-and-right-sum-differences) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0001-two-sum) |
-| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0724-find-pivot-index) |
-| [1991-find-the-middle-index-in-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
-| [2270-number-of-ways-to-split-array](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
-| [2574-left-and-right-sum-differences](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/2574-left-and-right-sum-differences) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0009-palindrome-number) |
-| [0066-plus-one](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0066-plus-one) |
-| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/AdityaGuptaMIT/Leetcode/tree/master/0202-happy-number) |
+This repository contains the solutions for the leetcode problems I have solved till date.
 <!---LeetCode Topics End-->
