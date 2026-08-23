@@ -6,7 +6,7 @@ public:
 
                 if (unique == nums[i+1]) {
 
-                    if (i+2 < nums.size()) {
+                
                         if (unique == nums[i+2]) {
                             nums.erase(nums.begin() + (i+2)) ;
                             i-- ;
@@ -15,7 +15,7 @@ public:
                             unique = nums[i+2] ;
                             i++ ;
                         }
-                    }
+                    
                 }
                 
                 else
